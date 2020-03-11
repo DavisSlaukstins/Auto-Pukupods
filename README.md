@@ -11,5 +11,5 @@ siltumnīcu kas balstīta uz šī paša principa.
 ## Shēma
 <img src="https://github.com/DavisSlaukstins/Auto-Pukupods/blob/master/Sh%C4%93ma.PNG" width="400" height="250">
 
-## Licenze
+## Licence
 Licenzēts zem GNU General Public License v3.0
