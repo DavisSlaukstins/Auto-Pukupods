@@ -10,3 +10,5 @@ siltumnīcu kas balstīta uz šī paša principa.
 * izveidot 3d modeli visām komponentēm : Upcoming
 ## Shēma
 <img src="https://github.com/DavisSlaukstins/Auto-Pukupods/blob/master/Sh%C4%93ma.PNG" width="400" height="250">
+## Licenze
+Licenzēts zem GNU General Public License v3.0
